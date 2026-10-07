@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "importedAt": "2026-01-01T00:00:00.000Z",
+  "source": {
+    "repository": "public-release",
+    "commit": "empty",
+    "privateUseOnly": false
+  },
+  "stats": {
+    "papers": 0,
+    "passages": 0,
+    "questions": 0
+  },
+  "papers": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "importedAt": "2026-01-01T00:00:00.000Z",
+  "sources": {
+    "content": {
+      "repository": "public-release",
+      "commit": "empty"
+    },
+    "audio": {
+      "repository": "public-release",
+      "revision": "none",
+      "tree": "empty",
+      "delivery": "none"
+    },
+    "privateUseOnly": false
+  },
+  "stats": {
+    "papers": 0,
+    "sections": 0,
+    "questions": 0,
+    "audioSections": 0
+  },
+  "papers": []
+}

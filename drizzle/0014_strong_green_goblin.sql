@@ -1,0 +1,1 @@
+ALTER TABLE `learner_profiles` ADD `effective_learning_minutes` integer DEFAULT 15 NOT NULL;
